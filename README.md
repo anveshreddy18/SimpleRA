@@ -35,7 +35,7 @@ Post compilation, an executable names ```server``` will be created in the ```src
 
 ## Commands / Queries
 
-- Look at the [Overview.html](./docs/Overview.md) to understand the syntax and working of the table related queries.
+- Look at the [Overview.html](docs/Overview.html) to understand the syntax and working of the table related queries.
 
 - ```LOAD MATRIX <matrix_name>```:
 The LOAD MATRIX command loads contents of the .csv (stored in ```data``` folder) and stores it as blocks in the ```data/temp``` directory.
