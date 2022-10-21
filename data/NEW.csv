@@ -1,0 +1,1 @@
+RS <- JOIN USING NESTED temp1, temp2 ON ID == R_N BUFFER 4
